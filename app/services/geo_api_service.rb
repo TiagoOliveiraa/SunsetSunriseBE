@@ -1,7 +1,4 @@
-require 'httparty'
-
 class GeoApiService
-    include HTTParty
     base_uri 'https://api.geoapify.com'
 
     def initialize(location)

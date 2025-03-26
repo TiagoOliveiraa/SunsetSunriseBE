@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  sunrise_time: 2025-02-14 21:11:42
+  sunset_time: 2025-02-14 21:11:42
+  golden_hour: 2025-02-14 21:11:42
+  date: 2025-02-14
+
+two:
+  location: MyString
+  sunrise_time: 2025-02-14 21:11:42
+  sunset_time: 2025-02-14 21:11:42
+  golden_hour: 2025-02-14 21:11:42
+  date: 2025-02-14
